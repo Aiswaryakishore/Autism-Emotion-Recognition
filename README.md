@@ -26,7 +26,7 @@ Emotion recognition in children with ASD is challenging due to subtle facial exp
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 | Model                | Train Acc (%) | Val Acc (%) | Test Acc (%) | Precision | Recall | F1 Score |
 |---------------------|--------------|------------|-------------|----------|--------|----------|
